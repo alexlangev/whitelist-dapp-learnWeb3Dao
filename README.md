@@ -3,7 +3,7 @@ This project is from [lw3](https://learnweb3.io/courses/c1d7081b-63a9-4c6e-b35c-
 The associated smart contract is deployed on the Sepolia testnet at: [0x0BC94C6322020D7c3EEf4506cD71485460D0e794](https://sepolia.etherscan.io/address/0x0BC94C6322020D7c3EEf4506cD71485460D0e794)
 
 Here is the smart contract code:
-```sol
+```solidity
 //SPDX-License-Identifier: Unlicense
 pragma solidity ^0.8.0;
 
